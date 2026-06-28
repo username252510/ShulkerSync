@@ -5,5 +5,5 @@ A lightweight tool to sync Modrinth modpacks across devices via a custom self ho
 
 <b>Notes:</b>
 
--You don't need to install any secondary librarys via pip, as all modules/libraries used are standard
+-You don't need to install any secondary librarys via pip, as all modules/libraries used are standard\
 -The server program currently only works on Linux, due to how the file system is
